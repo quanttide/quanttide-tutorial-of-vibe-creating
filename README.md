@@ -1,2 +1,13 @@
-# quanttide-tutorial-of-vibe-creating
-量潮氛围创作教程
+# 量潮氛围创作教程
+
+氛围创作（Vibe Creating）系列教程。
+
+## 目录结构
+
+```
+├── docs/         ← 文字教程（即视频录制脚本）
+├── examples/     ← 配套示例代码/资源
+└── README.md
+```
+
+视频成品单独发布，不入库。
